@@ -1,0 +1,12 @@
+/********* Join **********/
+
+
+/* Q13 has a problem: 
+- if using LEFT JOIN, the result is correct
+- if using JOIN, the result is wrong. 
+- The difference is the order of mdate. 
+
+However, the correct answer is not in the right order of mdate. ???
+
+*/
+
